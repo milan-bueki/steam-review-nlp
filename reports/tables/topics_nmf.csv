@@ -1,0 +1,6 @@
+model,topic_number,top_words
+NMF,0,"game, best, great, ever, play, fix, bad, shit, nice, valve"
+NMF,1,"good, game, pretty, old, really, short, still, yes, story, times"
+NMF,2,"fun, play, friends, still, really, free, pretty, short, people, old"
+NMF,3,"fixtf, fix, bots, valve, savetf, please, bot, unplayable, problem, many"
+NMF,4,"life, half, like, better, play, source, original, get, one, still"

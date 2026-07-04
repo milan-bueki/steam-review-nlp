@@ -1,0 +1,6 @@
+model,topic_number,top_words
+LDA,0,"game, shit, best, ever, played, still, games, one, play, time"
+LDA,1,"life, game, half, like, one, get, really, play, original, story"
+LDA,2,"game, fun, play, like, great, people, get, players, friends, strike"
+LDA,3,"good, game, bad, sucks, csgo, dont, yes, miss, cool, play"
+LDA,4,"game, valve, bots, fix, fixtf, play, cheaters, love, get, portal"
