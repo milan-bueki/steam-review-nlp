@@ -7,9 +7,11 @@ Kurzbeschreibung
 	Topic Modeling und Visualisierung.
 
 Datensatz
+- Verwendet wird der Datensatz [Steam Review&Games Dataset auf Kaggle](https://www.kaggle.com/datasets/filipkin/steam-reviews).
+- Die Rohdaten sind nicht im Repository enthalten.
 - Erwartete Dateien im Ordner `data/raw/`:
-	- `output.csv` (wichtigste Datei mit Spalten `app_id`, `review_id`, `content`, `is_positive`)
-	- `output_steamspy.csv` (Metadaten, optional)
+	- `output.csv` muss lokal unter `data/raw/output.csv` abgelegt werden (wichtigste Datei mit Spalten `app_id`, `review_id`, `content`, `is_positive`).
+	- `output_steamspy.csv` enthält Metadaten und kann optional ebenfalls unter `data/raw/` abgelegt werden.
 
 Projektstruktur
 ```
