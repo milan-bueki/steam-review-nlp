@@ -62,7 +62,3 @@ Methoden (kurz)
 - TF-IDF: `TfidfVectorizer` für gewichtete Wortrepräsentationen.
 - LDA: Latent Dirichlet Allocation zur Themenfindung.
 - NMF: Non-negative Matrix Factorization als alternative Topic-Methode.
-
-Hinweis
-- Große Rohdaten (`data/raw/`) müssen nicht ins Git eingecheckt werden.
-- Das Projekt ist für ein Hochschulportfolio optimiert: klarer Code, reproduzierbare Schritte.
